@@ -119,7 +119,7 @@ app.innerHTML = `
         <div id="stripViewer" class="strip-viewer">
           <img id="stripImage" alt="展区2.5D横向漫游画卷" />
         </div>
-        <video id="walkthrough" class="walkthrough" controls preload="metadata" src="/assets/video/walkthrough-60s.mp4"></video>
+        <video id="walkthrough" class="walkthrough" controls preload="metadata" poster="/assets/video/cover-360-review-black-v3.jpg" src="/assets/video/walkthrough-60s.mp4"></video>
         <div class="loading" id="loading">加载场景</div>
         <div class="scene-card">
           <span id="sceneOrder">01</span>
