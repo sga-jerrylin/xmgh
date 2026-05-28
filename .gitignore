@@ -1,0 +1,7 @@
+node_modules/
+dist/
+output/
+.devserver.pid
+*.log
+public/assets/video/*_local.mp4
+public/assets/video/*highbitrate*.mp4
